@@ -15,7 +15,7 @@ export function Default() {
                 <div className="bg-[#14589C] blur-[106px] absolute w-[891px] h-[52px] bottom-15 left-1/2 -translate-x-1/2"></div>
             </header>
             <div className="min-h-screen z-30">
-                <div className="max-w-[54rem] h-[212px] -mt-24 mx-auto z-10">
+                <div className="max-w-[54rem] -mt-24 mx-auto z-10">
                     <Outlet></Outlet>
                 </div>
             </div>

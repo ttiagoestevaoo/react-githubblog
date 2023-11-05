@@ -22,8 +22,9 @@ export default {
     },
     fontFamily: {sans: ['Nunito']},
     fontSize: {
-      sm: ['14px', '20px'],
+      sm: ['0.875rem', '1.25rem'],
       base: ['1rem', '1.6'],
+      md: ['1.125rem', '1.6'],
       lg: ['1.25rem', '1.6'],
       xl: ['1.5rem', '1.4'],
     }

@@ -1,7 +1,11 @@
 import { Header } from "./components/Header";
+import { Issues } from "./components/Issues";
 
 export default function Home() {
     return (
-        <Header/>
+        <div>
+            <Header/>
+            <Issues />
+        </div>
     )
 }
